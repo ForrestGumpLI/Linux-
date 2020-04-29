@@ -12,7 +12,7 @@
 
 官方这么明显的how to use the tool
 
-![use](img/use.bmp)
+![use](img/asanuse.bmp)
 
 点击这个AddressSanitizer，跟着官方来使用asan。
 
