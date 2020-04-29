@@ -6,7 +6,7 @@
 
 明显是初始化有问题，如何去查？上asan。
 
-[asan]: https://github.com/google/sanitizers/wiki
+https://github.com/google/sanitizers/wiki/AddressSanitizer
 
 给读者一个建议，如何使用一个工具不要百度，不要看csdn，很浪费时间的。
 
